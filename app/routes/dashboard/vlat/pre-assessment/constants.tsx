@@ -14,7 +14,7 @@ export const graphData = [
     label: 'Line Chart',
     to: '/dashboard/vlat/pre-assessment/linechart',
     graphType: GRAPH_TYPES.linechart,
-    hidden: true,
+    hidden: false,
   },
   {
     icon: <BarChartIcon />,
