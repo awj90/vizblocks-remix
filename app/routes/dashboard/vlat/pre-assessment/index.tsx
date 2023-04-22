@@ -87,7 +87,7 @@ export default function PreAssessment() {
                       {label}
                     </Button>
                     <Typography variant='subtitle1' sx={{ mt: 2 }}>
-                      Top Score: {highestScore}
+                      Top Score: {highestScore} / 10
                     </Typography>
                   </Box>
                 </Tooltip>
